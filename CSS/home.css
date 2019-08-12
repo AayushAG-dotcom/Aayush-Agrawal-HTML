@@ -1,0 +1,125 @@
+.content{
+	margin: 0 auto;
+	height: 800px;
+	width: 738px;
+	background-color: yellow;
+	border-radius: 20px; 
+}
+.inner_box1{
+	position: relative;
+}
+.text{
+float: left;
+left: 28px;
+top: 18px;
+position: absolute;
+color: red;
+font-size: 40px;
+}
+.text1{
+	float: left;
+	left: 28%;
+	top: 80px;
+	color: green;
+	position: absolute;
+	font-size: 20px;
+}
+.inner_box3{
+	position: relative;
+	top: -1;
+}
+
+ol li{
+	display: inline;
+    padding: 0px 34px;
+	color: white;
+	font-weight: bold;
+
+}
+
+.text2 ol{
+	top: 4px;
+	list-style-type: none;
+	float: left;
+	position: absolute;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+a:hover {	
+	background-color: blue ;
+}
+a li:active{
+	background-color: red;
+}
+.maini{
+	background-color: white;
+	margin: 0 auto;
+	height: 600px;
+	width: 715px;
+	margin-top: -1px;
+}
+#boxx1 img{
+	position: absolute;
+	 left: 25%;
+	 top: 26%;
+}
+
+#about{
+	font-size: 20px;
+	z-index: 9999925;
+}
+
+.title1{
+	float: left;
+    left: 28%;
+    top: 27%;
+    position: absolute;
+    z-index: 9999;
+    font-weight: bold;
+    font-size: 20px;
+}
+.title2{
+	left: 28%;
+    top: 31%;
+	position: absolute;
+	z-index: 99999;
+	width: 42%;
+	height: 200px;
+}
+.box2 img{
+	position: absolute;
+	 left: 27%;
+	 top: 62%;
+}
+
+
+.title3{
+	left: 28%;
+    top: 67%;
+	position: absolute;
+	z-index: 99999;
+	width: 42%;
+	height: 200px;}
+.title4{
+	float: left;
+    left: 0%;
+    top: -27%;
+    position: absolute;
+    z-index: 9999;
+    font-weight: bold;
+    font-size: 20px;
+}
+#boxx2 a{
+	color: black;
+	position: absolute;
+	top: 112%;
+}
+
+
+
+.inner_box3 a:hover{
+	color: yellow;
+	background-color: red;
+}

@@ -1,0 +1,129 @@
+.content{
+	margin: 0 auto;
+	height: 800px;
+	width: 738px;
+	background-color: #447aaf;
+	border-radius: 20px; 
+}
+.inner_box1{
+	position: relative;
+}
+#text{
+float: left;
+left: 330px;
+top: 18px;
+position: absolute;
+color:red;
+font-size: 40px;
+}
+#text1{
+	float: left;
+	left: 28%;
+	top: 80px;
+	color: #6c8d54;
+	position: absolute;
+	font-size: 20px;
+}
+#inner_box3{
+	position: relative;
+	top: -1;
+}
+
+ol li{
+	display: inline;
+    padding: 0px 34px;
+	color: white;
+	font-weight: bold;
+
+}
+
+#text2 ol{
+	top: 4px;
+	list-style-type: none;
+	float: left;
+	position: absolute;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+a:hover {	
+	background-color: #283722 ;
+}
+a li:active{
+	background-color: red;
+}
+.maini{
+	background-color: white;
+	margin: 0 auto;
+	height: 600px;
+	width: 715px;
+	margin-top: -1px;
+}
+#boxx1 img{
+	position: absolute;
+	 left: 27%;
+	 top: 37%;
+}
+
+#about{
+	z-index: 99999;
+	float: left;
+	position: absolute;
+	left:28%;
+	top: 27%;
+	font-weight: bold;
+	font-size: 40px;
+
+}
+
+#tt1{
+	float: left;
+    left: 28%;
+    top: 38%;
+    position: absolute;
+    z-index: 9999;
+    font-weight: bold;
+    font-size: 20px;
+}
+#ttt1{
+	left: 28%;
+    top: 40%;
+	position: absolute;
+	z-index: 99999;
+	width: 42%;
+	height: 200px;
+}
+#boxx2 img{
+	position: absolute;
+	 left: 27%;
+	 top: 75%;
+}
+#tt2{
+	float: left;
+    left: 28%;
+    top: 76%;
+    position: absolute;
+    z-index: 9999;
+    font-weight: bold;
+    font-size: 20px;
+}
+#ttt2{
+	left: 28%;
+    top: 78%;
+	position: absolute;
+	z-index: 99999;
+	width: 42%;
+	height: 200px;
+}
+#boxx2 a{
+	color: black;
+	position: absolute;
+	top: 112%;
+}
+.ft{
+	color: #e4edf8;
+	position: absolute;;
+	top: 104.1%;
+	left: 41%;
+}
